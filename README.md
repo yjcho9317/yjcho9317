@@ -1,8 +1,8 @@
 ### Hey, I'm João Jin
 
-Mobile security engineer building security SDKs for Android & iOS.
+Mobile SDK engineer building for Android.
 
-Currently exploring where AI agents meet enterprise tools.
+Currently putting AI into mobile products, and exploring where AI agents meet enterprise tools.
 
 Building [nworks](https://github.com/yjcho9317/nworks) — CLI & MCP Server for LINE WORKS(NAVER WORKS)
 
